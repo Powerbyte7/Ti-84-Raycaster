@@ -1,0 +1,7 @@
+global_palette.h
+global_palette.c
+ubuntu.h
+ubuntu.c
+oiram.h
+oiram.c
+gfx.h
